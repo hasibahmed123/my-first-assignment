@@ -1,13 +1,15 @@
 body {
+
   margin: 0;
   font-family: Arial, sans-serif;
   background-color: #f8f9ff;
   color: #333;
+
 }
 
 
 .btn {
-  --valueless-commit: true;
+
   display: inline-block;
   padding: 10px 20px;
   background-color: #4b48f0;
@@ -247,6 +249,7 @@ body {
 }
 
 .contact-form label {
+  --valueless-commit: true;
   font-size: 0.95rem;
   color: #333;
   font-weight: 500;
@@ -291,6 +294,7 @@ body {
 }
 
 .container {
+  --valueless-commit: true;
   text-align: center;
 }
 
