@@ -7,6 +7,7 @@ body {
 
 
 .btn {
+  --valueless-commit: true;
   display: inline-block;
   padding: 10px 20px;
   background-color: #4b48f0;
@@ -16,6 +17,7 @@ body {
   font-size: 14px;
   transition: background-color 0.3s ease;
 }
+
 
 .btn:hover {
   background-color: #3734c9;
